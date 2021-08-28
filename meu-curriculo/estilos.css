@@ -1,0 +1,44 @@
+.foto-perfil{
+    width: 200px;
+    border: 5px double #ececec;
+}
+
+
+.cabecalho{
+    background-color: darkgray;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-image: url("fundo.jpg");
+    background-size: cover;
+}
+
+.nome{
+    color: #fff;
+    margin-top:5px;
+    margin-bottom:0;
+    font-family: 'Segoe UI';
+    font-size: 38px;
+}
+
+.cargo{
+    color: #ececec;
+    margin-top: 2px;
+    font-family: 'Segoe UI';
+    font-weight: 200;
+    font-size: 22px;
+}
+
+.botao{
+    color:white;
+    border: 1px solid white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
